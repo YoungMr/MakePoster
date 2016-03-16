@@ -176,9 +176,6 @@ public class BmpDrawer implements IBmpDrawer {
 
     @Override
     public void setParentSize(int width, int height) {
-        if(bgBmp==null){
-            return;
-        }
         parentWidth = width;
         parentHeight = height;
         updateScaleRect();
