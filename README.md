@@ -1,7 +1,10 @@
 ##MakePoster（图片海报生成）
 我的微博：http://www.weibo.com/u/1021632387/home
+
 我的Github：https://github.com/coolstar1204
+
 我的CSDN：http://blog.csdn.net/coolstar1204
+
 
 ###项目介绍
 选择相册图片，添加多行文字并进行个性化排版样式设计，最后再保存成图片的开发学习项目。
